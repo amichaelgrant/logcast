@@ -1,0 +1,6 @@
+[
+    {"title":"Title1", "path": "/var/log/syslog"},
+    {"title":"Title2", "path": "/var/log/dmesg"},
+    {"title":"Title3", "path": "/var/log/ufw.log"},
+    {"title":"Title3", "path": "/var/log/etter.log.ecp"}
+]
